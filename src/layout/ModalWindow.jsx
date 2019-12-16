@@ -49,7 +49,7 @@ const ModalWindow = ({ onPostCreate, onHide, ...props }) => {
             <Form.Control
               type="text"
               name="title"
-              value={title}
+              value={title || ""}
               onChange={handleChange}
               placeholder="Title"
             />
@@ -60,7 +60,7 @@ const ModalWindow = ({ onPostCreate, onHide, ...props }) => {
               as="textarea"
               rows="3"
               name="description"
-              value={description}
+              value={description || ""}
               onChange={handleChange}
               placeholder="Description"
             />
