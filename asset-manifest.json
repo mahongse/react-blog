@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.1dcf0ca5.chunk.css",
+    "main.js": "/react-blog/static/js/main.fa1ec06f.chunk.js",
+    "main.js.map": "/react-blog/static/js/main.fa1ec06f.chunk.js.map",
+    "runtime-main.js": "/react-blog/static/js/runtime-main.d95296d1.js",
+    "runtime-main.js.map": "/react-blog/static/js/runtime-main.d95296d1.js.map",
+    "static/js/2.654f76cc.chunk.js": "/react-blog/static/js/2.654f76cc.chunk.js",
+    "static/js/2.654f76cc.chunk.js.map": "/react-blog/static/js/2.654f76cc.chunk.js.map",
+    "index.html": "/react-blog/index.html",
+    "precache-manifest.f70d88f981c3c8a9d5b145cf05701ae4.js": "/react-blog/precache-manifest.f70d88f981c3c8a9d5b145cf05701ae4.js",
+    "service-worker.js": "/react-blog/service-worker.js",
+    "static/css/main.1dcf0ca5.chunk.css.map": "/react-blog/static/css/main.1dcf0ca5.chunk.css.map",
+    "static/js/2.654f76cc.chunk.js.LICENSE": "/react-blog/static/js/2.654f76cc.chunk.js.LICENSE",
+    "static/media/avatar.png": "/react-blog/static/media/avatar.a5a534ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d95296d1.js",
+    "static/js/2.654f76cc.chunk.js",
+    "static/css/main.1dcf0ca5.chunk.css",
+    "static/js/main.fa1ec06f.chunk.js"
+  ]
+}
