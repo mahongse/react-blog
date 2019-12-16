@@ -14,7 +14,7 @@ const initialRegisterState = {
 
 const initialTab = Storage.get("acc-token") ? "Workspace" : "Home";
 
-const initialPost = { title: "", description: "" };
+export const initialPost = { title: "", description: "" };
 
 export const state = {
   blogger: [],

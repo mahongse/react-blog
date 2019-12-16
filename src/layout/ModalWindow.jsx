@@ -15,7 +15,10 @@ const ModalWindow = ({ onPostCreate, onHide, ...props }) => {
 
   const checkValidation = () => {
     const errors = {};
-    if (title.trim() === "" || description.trim() === "") {
+    if (
+      (title && title.trim() === "") ||
+      (description && description.trim() === "")
+    ) {
       errors.message = "Fields are required!";
     }
     return Object.keys(errors).length === 0 ? null : errors;
